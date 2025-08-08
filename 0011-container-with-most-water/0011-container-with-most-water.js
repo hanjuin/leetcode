@@ -24,8 +24,6 @@ var maxArea = function(height) {
         if(area > max){
             max = area
         }
-        console.log('max' + max)
-        console.log('area' + area)
     }
     return max
 };
