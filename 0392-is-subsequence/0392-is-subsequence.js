@@ -14,7 +14,6 @@ var isSubsequence = function(s, t) {
             j ++
         }
     }
-    console.log(i)
     if(i == s.length ){return true}
     return false
 };
