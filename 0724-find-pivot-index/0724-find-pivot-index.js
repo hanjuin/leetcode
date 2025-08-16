@@ -14,6 +14,7 @@ var pivotIndex = function(nums) {
         sr += nums[nums.length - 1 - i]
         sumRight.push(sr)
     }
+    
     for(let i = 0; i < nums.length; i++ ){
         if(sumLeft[i] == sumRight[nums.length - 1 - i]){
             return i
