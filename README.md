@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/hanjuin/leetcode/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/hanjuin/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hanjuin/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1777-determine-if-two-strings-are-close](https://github.com/hanjuin/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Array
 |  |
 | ------- |
@@ -50,10 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1319-unique-number-of-occurrences](https://github.com/hanjuin/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/hanjuin/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/hanjuin/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/hanjuin/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/hanjuin/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/hanjuin/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
 |  |
@@ -72,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/hanjuin/leetcode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/hanjuin/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/hanjuin/leetcode/tree/master/1833-find-the-highest-altitude) |
+## Counting
+|  |
+| ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/hanjuin/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
