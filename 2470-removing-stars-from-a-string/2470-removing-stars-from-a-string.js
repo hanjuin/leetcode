@@ -11,9 +11,5 @@ var removeStars = function(s) {
             string.pop()
         }
     }
-    let a = ''
-    for (let i = 0; i < string.length; i++){
-        a += string[i]
-    }
-    return a
+    return string.join('')
 };
