@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/hanjuin/leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/hanjuin/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/hanjuin/leetcode/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/hanjuin/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hanjuin/leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/hanjuin/leetcode/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/hanjuin/leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/hanjuin/leetcode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/hanjuin/leetcode/tree/master/0605-can-place-flowers) |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/hanjuin/leetcode/tree/master/0969-number-of-recent-calls) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/hanjuin/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
