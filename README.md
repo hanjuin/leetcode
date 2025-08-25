@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hanjuin/leetcode/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/hanjuin/leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/hanjuin/leetcode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/hanjuin/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/hanjuin/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hanjuin/leetcode/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/hanjuin/leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/hanjuin/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/hanjuin/leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/hanjuin/leetcode/tree/master/0392-is-subsequence) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/hanjuin/leetcode/tree/master/0088-merge-sorted-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/hanjuin/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/hanjuin/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
