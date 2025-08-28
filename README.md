@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/hanjuin/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/hanjuin/leetcode/tree/master/0392-is-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/hanjuin/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hanjuin/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/hanjuin/leetcode/tree/master/1236-n-th-tribonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/hanjuin/leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
