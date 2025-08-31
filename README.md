@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/hanjuin/leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/hanjuin/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/hanjuin/leetcode/tree/master/0392-is-subsequence) |
+| [0649-dota2-senate](https://github.com/hanjuin/leetcode/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/hanjuin/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hanjuin/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/hanjuin/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/hanjuin/leetcode/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/hanjuin/leetcode/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/hanjuin/leetcode/tree/master/0649-dota2-senate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/hanjuin/leetcode/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/hanjuin/leetcode/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
