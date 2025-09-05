@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/hanjuin/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/hanjuin/leetcode/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/hanjuin/leetcode/tree/master/0088-merge-sorted-array) |
+| [0162-find-peak-element](https://github.com/hanjuin/leetcode/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/hanjuin/leetcode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/hanjuin/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/hanjuin/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/hanjuin/leetcode/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/hanjuin/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1046-max-consecutive-ones-iii](https://github.com/hanjuin/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
